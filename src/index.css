@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+@import "tailwindcss";
+
+
+html, body, #root {
+  height: 100%;
+  margin: 0;            /* remove default body margin */
+  background-color: #fff; 
+  color: #0f172a;       /* light text so it's readable on black */
+}
+
+/* If your app wrapper exists, keep it full height too */
+#root > div, .App {
+  min-height: 100%;
+  background-color: transparent; /* let the page black show through */
+}
+
+html {
+  scroll-behavior: smooth;
+  /* If you have a fixed navbar (e.g., ~80px tall), keep anchors visible */
+  scroll-padding-top: 80px; /* adjust to your navbar height */
+}
+
+/* Respect users who prefer reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
