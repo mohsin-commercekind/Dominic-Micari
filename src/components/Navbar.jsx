@@ -72,8 +72,8 @@ export default function Navbar() {
               <Link to="/" className="inline-block">
                 <img
                   src={WebsiteLogo}
-                  alt="YB DISTRIBUTION Logo"
-                  className="h-8 md:h-10 w-auto object-contain"
+                  alt="Barginnest Distribution Logo"
+                  className="h-13 md:h-15 w-auto object-contain"
                 />
               </Link>
             </div>
@@ -158,7 +158,7 @@ export default function Navbar() {
         <div className="flex justify-between items-center mb-8">
           <img
             src={WebsiteLogo}
-            alt="YB DISTRIBUTION Logo"
+            alt="Barginnest Distribution Logo"
             className="h-10 w-auto object-contain"
           />
           <button

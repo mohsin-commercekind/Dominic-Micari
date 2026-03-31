@@ -9,7 +9,7 @@ export const faqData = {
   questions: [
     {
       id: 1,
-      question: "What is YB Distribution?",
+      question: "What is Barginnest Distribution?",
       answer:
         "We source American-based, good products. All our products are carefully evaluated to make sure they are popular and profitable.",
     },

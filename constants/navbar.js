@@ -7,8 +7,8 @@ export const navbar = {
     { label: "About Us", path: "/About" },
   ],
   contact: {
-    phone: "+1 (915) 400-4025",
-    email: "partnership@ybdistribution.co",
+    phone: "+1 (631) 946-9943",
+    email: "partnership@barginnestdistribution.com",
     address: "111 street brooklyn NY",
   }
 };

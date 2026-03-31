@@ -1,21 +1,22 @@
 export const theme = {
   colors: {
-    // Primary: Deep Blue (#0F3557) from the YB logo
-    primary: "#0b1a27",      // Dark Navy Blue (main dominant color)
+    // Primary: Strong teal from logo
+    primary: "#1F6F73",
 
-    // Secondary: Soft Green (#34D399) used for the premium highlights
-    secondary: "#00408a",    // Mint/Soft Green (accent/highlight color)
+    // Secondary: Vibrant orange from logo
+    secondary: "#F57C00",
 
-    // textDark: Matches the primary deep blue for a professional look
-    textDark: "#0F3557",
+    // Dark text (headings / bold text)
+    textDark: "#124E52",
 
-    textLight: "#FFFFFF",    // White (standard clean text)
+    // Light text
+    textLight: "#FFFFFF",
 
-    // accent: Using the soft green to maintain the premium vibe
-    accent: "#34D399",
+    // Accent (lighter orange for hover, highlights)
+    accent: "#FFA040",
 
-    // secondaryText: Often used for subtitles like "Distribution"
-    secondaryText: "#34D399",
+    // Secondary text (e.g., "Distribution")
+    secondaryText: "#1F6F73",
   },
 
   fonts: {

@@ -1,10 +1,10 @@
 export const footerData = {
   logo: {
-    alt: " YB DISTRIBUTION Logo",
+    alt: " Barginnest Distribution Logo",
     link: "/",
   },
   description:
-    "At YB Distribution, we help businesses grow by connecting their products to the right markets. Our team crafts tailored distributions strategies designed to maximize visibility.",
+    "At Barginnest Distribution, we help businesses grow by connecting their products to the right markets. Our team crafts tailored distributions strategies designed to maximize visibility.",
   quickMenu: {
     title: "Quick Menu",
     links: [
@@ -78,12 +78,12 @@ export const footerData = {
   contact: {
     phone: {
       title: "Phone",
-      value: "+1 (915) 400-4025",
+      value: "+1 (631) 946-9943",
       icon: "faPhone",
     },
     email: {
       title: "Email",
-      value: "partnership@ybdistribution.co",
+      value: "partnership@barginnestdistribution.com",
       icon: "faEnvelope",
     },
     // address: {

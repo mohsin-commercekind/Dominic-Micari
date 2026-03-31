@@ -20,7 +20,7 @@ const Footer = () => {
             <div className="mb-2">
               <Link to={footerData.logo.link}>
                 <img
-                  className="w-auto h-[60px]"
+                  className="w-auto h-[100px]"
                   src={frame1}
                   alt={footerData.logo.alt}
                 />

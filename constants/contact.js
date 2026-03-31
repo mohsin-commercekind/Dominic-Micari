@@ -12,7 +12,7 @@ export const contact = {
     ],
     submitButton: "Submit",
   },
-  phone: "+1 (915) 400-4025",
-  email: "partnership@ybdistribution.co",
+  phone: "+1 (631) 946-9943",
+  email: "partnership@barginnestdistribution.com",
   mapImage: "/assets/images/MapImage.png"
 };

@@ -30,19 +30,19 @@ const AboutContent = () => {
 
                     <div className="space-y-6 text-gray-600 text-base md:text-lg leading-relaxed">
                         <p className="font-semibold text-gray-800">
-                            Welcome to YB Distribution – Your Trusted Global Distribution Partner
+                            Welcome to Barginnest Distribution – Your Trusted Global Distribution Partner
                         </p>
                         <p>
-                            At YB Distribution, we are committed to delivering reliability, efficiency, and transparency in the world of wholesale distribution. Our mission is to support businesses with dependable supply chains, ensuring smooth operations and consistent product availability across global markets.
+                            At Barginnest Distribution, we are committed to delivering reliability, efficiency, and transparency in the world of wholesale distribution. Our mission is to support businesses with dependable supply chains, ensuring smooth operations and consistent product availability across global markets.
                         </p>
                         <p>
-                            Built on strong values of integrity and customer focus, YB Distribution works closely with businesses of all sizes—from independent retailers to large organizations. Our experienced team is dedicated to sourcing quality products and maintaining steady supply chains so that your business always has access to the merchandise it needs.
+                            Built on strong values of integrity and customer focus, Barginnest Distribution works closely with businesses of all sizes—from independent retailers to large organizations. Our experienced team is dedicated to sourcing quality products and maintaining steady supply chains so that your business always has access to the merchandise it needs.
                         </p>
                         <p>
                             Transparency is at the heart of how we operate. We believe that strong partnerships are built on trust, open communication, and clear processes. From pricing structures to procurement and logistics, we maintain a high level of honesty and professionalism in every transaction.
                         </p>
                         <p>
-                            Through our growing network of trusted suppliers and manufacturers, YB Distribution provides access to a wide variety of products across multiple industries. Whether your business requires consumer electronics, apparel, household goods, or other merchandise, we are equipped to help you find reliable and competitive solutions.
+                            Through our growing network of trusted suppliers and manufacturers, Barginnest Distribution provides access to a wide variety of products across multiple industries. Whether your business requires consumer electronics, apparel, household goods, or other merchandise, we are equipped to help you find reliable and competitive solutions.
                         </p>
                     </div>
 
@@ -71,10 +71,10 @@ const AboutContent = () => {
                             className="text-3xl md:text-4xl font-bold mb-8 uppercase"
                             style={{ fontFamily: theme.fonts.heading }}
                         >
-                            YB Distribution
+                            Barginnest Distribution
                         </h2>
                         <p className="text-gray-600 mb-12 leading-relaxed text-lg">
-                            Partner with YB Distribution for dependable and high-quality distribution solutions. Our company is built on a strong foundation of reliability, operational efficiency, and dedicated customer service. We work closely with our clients to understand their business needs and deliver solutions that help them grow and succeed.
+                            Partner with Barginnest Distribution for dependable and high-quality distribution solutions. Our company is built on a strong foundation of reliability, operational efficiency, and dedicated customer service. We work closely with our clients to understand their business needs and deliver solutions that help them grow and succeed.
                         </p>
 
                         <div className="space-y-8">
